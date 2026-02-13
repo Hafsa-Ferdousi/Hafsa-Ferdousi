@@ -4,23 +4,23 @@
 ## 💡 My Skills & Technologies
 
 <p align="center">
-<img height="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-<img height="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-<img height="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-<img height="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+<img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+<img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+<img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 </p>
 
 <p align="center">
-<img height="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"/>
-<img height="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-<img height="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-<img height="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+<img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"/>
+<img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+<img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+<img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
 </p>
 
 <p align="center">
-<img height="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
-<img height="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/>
-<img height="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+<img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
+<img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/>
+<img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
 </p>
 
 <p align="center">
