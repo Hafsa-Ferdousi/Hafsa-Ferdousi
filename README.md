@@ -33,25 +33,30 @@
 <p align="center">
   <a href="https://codolio.com/profile/hafsa5" target="blank">
     <img align="center" src="https://codolio.com/codolio_assets/codolio.svg" height="30" width="30" />
-    CODOLIO
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hafsa-ferdousi/?trk=public_post_feed-actor-name" target="blank">
-    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJeJlx-HEr29YIB4b0GVBxDSAEEmQnRNFcMQ&s" height="30" width="30" />
-    LINKEDIN
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    Codolio
+     </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/hafsaferdousi7" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+    HackerRank
+     </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Hafsa5/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" width="30" />
+    LeetCode
+    </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/hafsa5" target="blank">
+    <img align="center" src="https://img.icons8.com/color/512/codechef.png" height="40" width="40" />
+    CODECHEF
+   </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/Hafsa13" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
     CODEFORCES
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/hafsa5" target="blank">
-    <img align="center" src="https://img.icons8.com/color/512/codechef.png" height="40" width="40" />
-    CODECHEF
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/hafsaferdousi7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-    HACKERRANK
+  <a href="https://www.linkedin.com/in/hafsa-ferdousi/?trk=public_post_feed-actor-name" target="blank">
+    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJeJlx-HEr29YIB4b0GVBxDSAEEmQnRNFcMQ&s" height="30" width="30" />
+    LinkedIn
   </a>
 </p>
+
 
 ## 📊 GitHub Highlights
 
