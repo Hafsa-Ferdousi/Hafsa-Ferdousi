@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=000000&center=true&vCenter=true&width=800&repeat=false&lines=Hafsa;CSE+Student+at+East+West+University;Aspiring+Software+Engineer;AI+%7C+Data+Science+%7C+Backend+Development;Building+real-world+software+solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=000000&center=true&vCenter=true&width=800&repeat=false&lines=CSE+Student+at+East+West+University;Aspiring+Software+Engineer;AI+%7C+Data+Science+%7C+Backend+Development;Building+real-world+software+solutions" />
 </p>
 
 
