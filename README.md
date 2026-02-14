@@ -79,6 +79,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafsa-Ferdousi&theme=tokyo-night&area=true" />
 </p>
 
+## 🧠 Data Structures & Algorithms
 
 <table>
   <tr>
