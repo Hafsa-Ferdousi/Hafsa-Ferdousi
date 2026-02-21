@@ -81,9 +81,6 @@
 
 ## 🧠 Data Structures & Algorithms
 
-<table>
-  <tr>
-    <td align="center">
+<div align="center">
       <img src="https://leetcard.jacoblin.cool/Hafsa5?ext=heatmap"/>
-    </td>
-</table
+    </div>
