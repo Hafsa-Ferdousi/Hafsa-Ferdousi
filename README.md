@@ -71,7 +71,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hafsa-Ferdousi&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hafsa-Ferdousi&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hafsa-Ferdousi&theme=github_dark" />
 </p>
 
 ## 📈 Contribution Graph
