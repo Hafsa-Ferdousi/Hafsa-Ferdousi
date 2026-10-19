@@ -74,14 +74,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hafsa-Ferdousi&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hafsa-Ferdousi&theme=github_dark" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hafsa-Ferdousi&theme=github_dark&utcOffset=6" />
-</p>
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafsa-Ferdousi&theme=tokyo-night&area=true" />
-</p>
 
 ## 🧠 Data Structures & Algorithms
 
