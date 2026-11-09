@@ -103,3 +103,8 @@
 <div align="center">
       <img src="https://leetcard.jacoblin.cool/Hafsa5?ext=heatmap"/>
     </div>
+
+## 💻 Coding Journey & Contributions
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=Hafsa-Ferdousi&hide_border=true)
+
+
